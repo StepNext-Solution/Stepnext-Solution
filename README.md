@@ -24,7 +24,7 @@ We welcome contributions to our **open source projects**:
 2. Make your changes  
 3. Submit a pull request
 
-We value community collaboration. Your contributions help us grow and improve our projects for everyone.
+#We value community collaboration. Your contributions help us grow and improve our projects for everyone.
 
 
 ## Contact Us

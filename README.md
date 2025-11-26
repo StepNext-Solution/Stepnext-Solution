@@ -11,7 +11,8 @@
 - **UI/UX Design** – Create intuitive and engaging user interfaces and experiences.  
 - **Search Engine Optimization (SEO)** – Improve your website’s visibility and organic traffic.  
 - **Open-Source Projects** – Explore and contribute to public code repositories.  
-- **Maintenance & Support** – Keep your software running smoothly with ongoing support.  
+- **Maintenance & Support** – Keep your software working well with regular help and updates. 
 
 
 **Contact us:** [stepnextsolution1@gmail.com](mailto:stepnextsolution1@gmail.com)
+

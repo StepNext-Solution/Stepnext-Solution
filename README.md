@@ -29,7 +29,7 @@ We welcome contributions to our **open source projects**:
 2. Make your changes  
 3. Submit a pull request
 
-**We value community collaboration.Your contributions help us grow, supporting our mission to create software that makes technology simple and useful.**
+<p align="center">**We value community collaboration.Your contributions help us grow, supporting our mission to create software that makes technology simple and useful.** </p>
 
 
 ## Contact Us

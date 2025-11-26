@@ -19,7 +19,7 @@
 - **Frontend:** HTML, CSS, JavaScript 
 - **Backend:** Node.js, Python, PHP
 - **Framework:** React, Bootstrap, Tailwind  
-- **Databases:** MySQL, FireBase, MongoDB  
+- **Databases:** MySQL, FireBase, MongoDB, Laravel 
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code 
 
 

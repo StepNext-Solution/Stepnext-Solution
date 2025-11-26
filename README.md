@@ -40,6 +40,6 @@ We welcome contributions to our **open source projects**:
 
 
 <p align="center">
-&copy; 2025 Stepnext-Solution. All rights reserved.
+&copy; 2025 Stepnext-Solution.All rights reserved.
 </p>
 

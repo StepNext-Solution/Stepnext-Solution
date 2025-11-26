@@ -1,4 +1,7 @@
-# Welcome to Stepnext-Solution
+
+
+<h1 align="center">  # Welcome to Stepnext-Solution </h1>
+
 
 **Stepnext-Solution** is a tech company that creates innovative software and digital solutions.
 
@@ -24,7 +27,7 @@ We welcome contributions to our **open source projects**:
 2. Make your changes  
 3. Submit a pull request
 
-#We value community collaboration. Your contributions help us grow and improve our projects for everyone.
+**We value community collaboration. Your contributions help us grow and improve our projects for everyone.**
 
 
 ## Contact Us

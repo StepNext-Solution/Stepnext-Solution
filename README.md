@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to Stepnext-Solution
 
-<!--
-**Stepnext-Solution/Stepnext-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Delivering professional and modern software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Our Services
+
+[![Web Development](https://img.shields.io/badge/Web_Development-🌐-blue?style=flat-square)](https://example.com)  
+[![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-🎨-green?style=flat-square)](https://example.com)  
+[![SEO](https://img.shields.io/badge/SEO-🚀-orange?style=flat-square)](https://example.com)
+
+---
+
+📧 **Contact:** [stepnextsolution1@gmail.com](mailto:stepnextsolution1@gmail.com)

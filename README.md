@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welcome to Stepnext-Solution </h1>
+<h1 align="center"> Welcome to StepNext-Solution </h1>
 
 
 <h4 align="center"> 💻 Code ⚡ Connect ✨ Create </h4>
@@ -36,10 +36,10 @@ We welcome contributions to our **open source projects**:
 
 **Mail:** 📧 [stepnextsolution1@gmail.com](mailto:stepnextsolution1@gmail.com)
 
-**Visit our website:** <a href="https://sites.google.com/view/stepnext-solution/home">Stepnext-Solution</a>
+**Visit our website:** <a href="https://sites.google.com/view/stepnext-solution/home">StepNext-Solution</a>
 
 
 <p align="center">
-&copy; 2025 Stepnext-Solution.All rights reserved.
+&copy; 2025 StepNext-Solution.All rights reserved.
 </p>
 

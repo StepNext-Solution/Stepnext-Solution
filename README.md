@@ -2,7 +2,7 @@
 <h1 align="center">  Welcome to Stepnext-Solution </h1>
 
 
-<p align="center"> Stepnext-Solution is a tech company that creates innovative software and digital solutions. </p>
+<p align="center"> Stepnext-Solution is a tech company that creates easy-to-use software and digital solutions. </p>
 
 <hr>
 

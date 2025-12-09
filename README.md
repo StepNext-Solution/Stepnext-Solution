@@ -37,8 +37,6 @@ We welcome contributions to our **open source projects**:
 
 **Mail:** 📧 [stepnextsolution1@gmail.com](mailto:stepnextsolution1@gmail.com)
 
-**Visit our website:** <a href="https://sites.google.com/view/stepnext-solution/home">StepNext-Solution</a>
-
 
 <p align="center">
 &copy; 2025 StepNext-Solution.All rights reserved.

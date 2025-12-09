@@ -13,7 +13,7 @@
 - **Web Development** – Build responsive and modern websites.  
 - **UI/UX Design** – Design simple and easy to use interfaces  
 - **Open-Source Projects** – Explore and contribute to public code repositories.
-- **Software Engineering** – Build software that is easy to use, helps you achieve more with less effort
+
 
 
 ## Technologies We Work With

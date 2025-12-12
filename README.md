@@ -7,12 +7,22 @@
 
 <hr>
 
+## Our Services
 
-## Our Services & Features
+- **Web Development** – Building websites that look good and work well.
+- **Frontend Development** – Creating the parts of a website that users see and interact with.
+- **Backend Development** – Developing the behind-the-scenes system that keeps a website running.
+- **UI/UX Design** – Designing screens that are easy to understand and simple to use.
+- **Open-Source Projects** – Sharing code publicly for others to use and improve.
 
-- **Web Development** – Build responsive and modern websites.  
-- **UI/UX Design** – Design simple and easy to use interfaces  
-- **Open-Source Projects** – Explore and contribute to public code repositories.
+## Our Features
+
+- Works well on phones and computers
+- Easy-to-use design
+- Fast loading pages
+- Safe and secure system
+- Connects with databases and other apps
+- Free code available for use or contribution
 
 
 
